@@ -59,7 +59,7 @@ Este proyecto fue diseñado con las tecnologias base:
 
 Diseñado con ♥️ por [Alvaro Castillo](https://www.linkedin.com/in/alvaro-castillo-c/)
 
-<div>
+</div>
 
 
 
