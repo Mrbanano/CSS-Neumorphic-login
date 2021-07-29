@@ -68,7 +68,9 @@ Diseñado con ♥️ por [Alvaro Castillo](https://www.linkedin.com/in/alvaro-ca
 
 
 
-
+- mejoras (proximas updates)
+  - añadir favicon
+  - mejorar el boton
 
 
 
